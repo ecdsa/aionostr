@@ -1,0 +1,3 @@
+[submodule "aionostr/ecc"]
+	path = aionostr/ecc
+	url = https://github.com/spesmilo/electrum-ecc.git

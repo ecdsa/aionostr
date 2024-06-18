@@ -14,8 +14,6 @@ requirements = [
     "Click>=7.0",
     "websockets",
     "cryptography>=37.0.4",
-    "pycparser>=2.21",
-    "coincurve>=20.0",
 ]
 
 test_requirements = [

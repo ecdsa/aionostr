@@ -11,11 +11,9 @@ with open("HISTORY.rst") as history_file:
     history = history_file.read()
 
 requirements = [
-    "Click>=7.0",
+    "electrum_ecc",
     "websockets",
     "cryptography>=37.0.4",
-    "pycparser>=2.21",
-    "coincurve>=20.0",
 ]
 
 test_requirements = [
